@@ -1,0 +1,4 @@
+- Added launcher background
+- Fixed graph rendering
+- Added company name support
+- Improved duty status buttons
